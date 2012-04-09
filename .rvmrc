@@ -1,1 +1,1 @@
-rvm --create use mri-1.9.3-p125@validations-spike
+rvm --create use ree-1.8.7@validations-spike

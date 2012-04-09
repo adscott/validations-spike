@@ -1,4 +1,5 @@
 require 'rspec'
+require './models/person.rb'
 require File.expand_path('models/person.rb')
 
 describe Person do
