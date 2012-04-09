@@ -1,0 +1,1 @@
+rvm --create use mri-1.9.3-p125@validations-spike
